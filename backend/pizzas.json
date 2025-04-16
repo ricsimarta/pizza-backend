@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Margherita",
+    "toppings": ["tomato sauce", "mozzarella", "oregano"],
+    "price": 2499,
+    "image": "image.png"
+  },
+  {
+    "id": 2,
+    "name": "Pepperoni",
+    "toppings": ["tomato sauce", "mozzarella", "pepperoni"],
+    "price": 2799,
+    "image": "image.png"
+  },
+  {
+    "id": 3,
+    "name": "Hawaiian",
+    "toppings": ["tomato sauce", "mozzarella", "ham", "pineapple"],
+    "price": 2899,
+    "image": "image.png"
+  },
+  {
+    "id": 4,
+    "name": "Four Cheese",
+    "toppings": ["mozzarella", "gorgonzola", "parmesan", "ricotta"],
+    "price": 2999,
+    "image": "image.png"
+  },
+  {
+    "id": 5,
+    "name": "Vegetarian",
+    "toppings": ["tomato sauce", "mozzarella", "bell peppers", "onions", "olives"],
+    "price": 2699,
+    "image": "image.png"
+  },
+  {
+    "id": 6,
+    "name": "BBQ Chicken",
+    "toppings": ["bbq sauce", "mozzarella", "grilled chicken", "onions"],
+    "price": 3099,
+    "image": "image.png"
+  },
+  {
+    "id": 7,
+    "name": "Meat Lovers",
+    "toppings": ["tomato sauce", "mozzarella", "sausage", "bacon", "ham", "pepperoni"],
+    "price": 3299,
+    "image": "image.png"
+  },
+  {
+    "id": 8,
+    "name": "Spinach & Feta",
+    "toppings": ["olive oil", "spinach", "feta cheese", "garlic"],
+    "price": 2799,
+    "image": "image.png"
+  },
+  {
+    "id": 9,
+    "name": "Buffalo Chicken",
+    "toppings": ["buffalo sauce", "mozzarella", "spicy chicken", "blue cheese"],
+    "price": 3199,
+    "image": "image.png"
+  },
+  {
+    "id": 10,
+    "name": "Truffle Mushroom",
+    "toppings": ["white sauce", "mozzarella", "mushrooms", "truffle oil"],
+    "price": 3499,
+    "image": "image.png"
+  }
+]
