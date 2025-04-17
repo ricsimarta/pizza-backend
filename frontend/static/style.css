@@ -7,3 +7,37 @@
   font-family: inherit;
   font-size: inherit;
 }
+
+#root {
+  padding: 20px;
+}
+
+div.pizzas {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+div.pizza {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+  max-width: 280px;
+
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  padding: 10px;
+}
+
+div.cart {
+  position: fixed;
+  top: 50px;
+  right: 0;
+
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  padding: 10px;
+}
+
+div.cart ul {
+  list-style-type: none;
+}
